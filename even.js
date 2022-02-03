@@ -1,3 +1,5 @@
+// Function to check if num is even
+
 const isEven = function (num) {
   return num % 2 === 0;
 }
